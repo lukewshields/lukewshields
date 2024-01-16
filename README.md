@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukewshields
 - 👀 I’m interested in learning more in depth about backend development
-- 🌱 I’m currently learning comman line interface (linux) and C
+- 🌱 I’m currently learning fullstack development specifically user authentication
 - 📫 How to reach me lukews@uw.edu
 
 <!---
