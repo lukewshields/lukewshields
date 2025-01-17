@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukewshields
 - 👀 I’m interested in learning more in depth about embedded systems software engineering
-- 🌱 I’m currently learning about hmms and deep learnign
+- 🌱 I’m currently learning about hmms and deep learning
 - 📫 You can contact me at lukews@uw.edu
 
 <!---
