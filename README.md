@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukewshields
-- 👀 I’m interested in learning more in depth about embedded systems software engineering
-- 🌱 I’m currently learning about hmms and deep learning
+- 👀 I’m interested in learning more in depth about Embedded Systems Software Engineering. I am specifically exploring communication protocols such as UART and I2C.
+- 🌱 I’m currently learning more about HMMs and deep learning.
 - 📫 You can contact me at lukews@uw.edu
 
 <!---
